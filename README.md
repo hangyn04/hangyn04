@@ -1,4 +1,4 @@
-👋 # Hi, I'm Ha Nguyen
+👋 Hello, I'm [Ha Nguyen]!
 - Welcome to my corner of project universe! 👨‍💻 I love playing with numbers and coding results to find cool stories in data
 
 🚀 What Drives Me:
@@ -18,6 +18,6 @@ technical knowledge to solve data problems. I am actively seeking for data scien
 - Feel free to explore my projects, and if you discover something you like, drop a message or give a virtual high-five! 👋
 
 📬 How to Reach Me:
-LinkedIn: [https://www.linkedin.com/in/ha-nguyen04/]
-Email: [ha.nguyen@centre.edu]
-Portfolio: [https://github.com/hangyn04]
+- LinkedIn: [https://www.linkedin.com/in/ha-nguyen04/]
+- Email: [ha.nguyen@centre.edu]
+- Portfolio: [https://github.com/hangyn04]
