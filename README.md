@@ -1,4 +1,4 @@
-👋 Hello, I'm Ha Nguyen!
+#👋 Hello, I'm Ha Nguyen!
 - Welcome to my corner of project universe! 👨‍💻 I love playing with numbers and coding results to find cool stories in data
 
 🚀 What Drives Me:
