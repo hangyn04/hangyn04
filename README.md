@@ -11,7 +11,7 @@ technical knowledge to solve data problems. I am actively seeking for data scien
 
 🌐 What I Do Here:
 * My projects I worked from my data science classes and my computer science classes
-* Data research: I will update my own research here in the future
+* Data/AI/Machine Learning Projects: I will update my own projects here
 
 🤝 Let's Connect:
 - I'm eager to chat with fellow data enthusiasts or anyone who shares a passion for data!
