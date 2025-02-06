@@ -6,7 +6,7 @@
 smart decisions, which I believe can bring success to any company
 
 💼 About Me:
-- Currently, I am a junior student at Centre College with a Data Science major and Computer Science Minor. I learn a bunch about data cleaning, Python, R, MySQL so I am now ready to apply my 
+- Currently, I am a junior student at Centre College with a Data Science major and Statistics Minor. I learn a bunch about data cleaning, Python, R, MySQL so I am now ready to apply my 
 technical knowledge to solve data problems. I am actively seeking for data scienstist/analyst internship opportunities
 
 🌐 What I Do Here:
