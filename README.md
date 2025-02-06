@@ -19,5 +19,5 @@ technical knowledge to solve data problems. I am actively seeking for data scien
 
 📬 How to Reach Me:
 - LinkedIn: [https://www.linkedin.com/in/ha-nguyen04/]
-- Email: [ha.nguyen@centre.edu]
+- Email: [ha.nguyencontact04@gmail.edu]
 - Portfolio: [https://github.com/hangyn04]
